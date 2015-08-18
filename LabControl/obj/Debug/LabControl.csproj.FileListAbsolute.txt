@@ -1,0 +1,725 @@
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\LabControl.dll.config
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\LabControl.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\LabControl.pdb
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Antlr3.Runtime.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\EntityFramework.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Newtonsoft.Json.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Owin.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\System.Web.Optimization.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\System.Web.Providers.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\WebGrease.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\System.Web.Optimization.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Newtonsoft.Json.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\EntityFramework.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\System.Web.Providers.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\obj\Debug\LabControl.dll
+c:\users\jill delgado\documents\visual studio 2013\Projects\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Brandon\Desktop\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Owin.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Brandon\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\LabControl.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Owin.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Desktop\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\laboratorio\Desktop\LabControl\LabControl\obj\Debug\LabControl.pdb
+E:\LabControl\LabControl\bin\LabControl.dll.config
+E:\LabControl\LabControl\bin\LabControl.dll
+E:\LabControl\LabControl\bin\LabControl.pdb
+E:\LabControl\LabControl\bin\Antlr3.Runtime.dll
+E:\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+E:\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+E:\LabControl\LabControl\bin\EntityFramework.dll
+E:\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+E:\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+E:\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+E:\LabControl\LabControl\bin\Newtonsoft.Json.dll
+E:\LabControl\LabControl\bin\Owin.dll
+E:\LabControl\LabControl\bin\System.Web.Optimization.dll
+E:\LabControl\LabControl\bin\System.Web.Providers.dll
+E:\LabControl\LabControl\bin\WebGrease.dll
+E:\LabControl\LabControl\bin\System.Web.Optimization.xml
+E:\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+E:\LabControl\LabControl\bin\Newtonsoft.Json.xml
+E:\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\LabControl\LabControl\bin\EntityFramework.xml
+E:\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LabControl\LabControl\bin\System.Web.Providers.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+E:\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+E:\LabControl\LabControl\obj\Debug\LabControl.dll
+E:\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Owin.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Jill Delgado\Pictures\LabControl\LabControlEmail\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Owin.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Brandon\Desktop\Chill gifs\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Owin.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Jill Delgado\Music\LabControl5\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Owin.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Coco xD\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Owin.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jaime\Desktop\labControl todo\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Owin.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Coco xD\Desktop\COCO TOMELA\labControl todo\LabControl\LabControl\obj\Debug\LabControl.pdb
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\LabControl.dll.config
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\LabControl.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\LabControl.pdb
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\EntityFramework.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Owin.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\System.Web.Providers.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\WebGrease.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\System.Web.Optimization.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Antlr3.Runtime.pdb
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Newtonsoft.Json.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\EntityFramework.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\EntityFramework.SqlServer.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\System.Web.Providers.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\EntityFramework.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\obj\Debug\LabControl.csprojResolveAssemblyReference.cache
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\obj\Debug\LabControl.dll
+C:\Users\Jill Delgado\Desktop\proyeto ultimo\LabControlListo\labControl todo\LabControl\LabControl\obj\Debug\LabControl.pdb
